@@ -1,12 +1,12 @@
 module x-ui
 
-go 1.21.4
+go 1.23
 
 require (
 	github.com/Calidity/gin-sessions v1.3.1
 	github.com/gin-contrib/gzip v0.0.6
 	github.com/gin-gonic/gin v1.9.1
-	github.com/goccy/go-json v0.10.2
+	github.com/goccy/go-json v0.12.0
 	github.com/mymmrac/telego v0.28.0
 	github.com/nicksnyder/go-i18n/v2 v2.3.0
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
